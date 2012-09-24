@@ -2,7 +2,7 @@
 # XingHe Studio File to MD5 and SHA1 (Compile App)
 # 星河创作室(XingHeStudio.com)
 # Create by Stream.Wang 2012-04-10
-# Modify by Stream.Wang 2012-08-19
+# Modify by Stream.Wang 2012-09-24
 
 from distutils.core import setup
 import py2exe,sys
